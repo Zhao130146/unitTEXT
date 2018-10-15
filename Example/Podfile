@@ -1,0 +1,6 @@
+use_frameworks!
+target 'unitTEXT_Tests' do
+  pod 'unitTEXT', :path => '../'
+  
+  
+end
