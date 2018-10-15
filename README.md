@@ -22,7 +22,7 @@ pod 'unitTEXT'
 
 ## Author
 
-zoran, 13500008021@163.com
+zoran
 
 ## License
 
