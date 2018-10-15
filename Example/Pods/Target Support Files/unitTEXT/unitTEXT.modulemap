@@ -1,0 +1,6 @@
+framework module unitTEXT {
+  umbrella header "unitTEXT-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "unitTEXT",
+  "version": "0.1.0",
+  "summary": "A short description of unitTEXT.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zoran/unitTEXT",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zoran": "13500008021@163.com"
+  },
+  "source": {
+    "git": "https://github.com/zoran/unitTEXT.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "unitTEXT/Classes/**/*"
+}
